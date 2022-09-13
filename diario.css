@@ -1,0 +1,48 @@
+ul {
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+ 
+li {
+	margin: auto;
+	float: left;
+}
+ 
+li {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Stint Ultra Condensed', bold;
+}
+ 
+li:hover {
+    background-color: blue;
+}
+
+
+body{
+	
+        
+        text-align: center;
+        font-family: 'Pangolin';
+        background-color: black;
+        color: white;
+        font-size:15px;
+        
+}
+
+
+
+img {
+	  height: 300px;
+	  width: 200px;
+}
